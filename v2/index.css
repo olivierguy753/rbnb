@@ -3,10 +3,9 @@ body {
 	    background-repeat: no-repeat;
     background-attachment: initial;
     background-position: top;
-   background-size: cover;
+    background-size: cover;
 }
 .barrenav {
-    display: inline;
-    float: right;
-
+    text-align: right;
+    color: antiquewhite;
   }
