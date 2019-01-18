@@ -1,10 +1,12 @@
 body {
 	background-image: url("mountain.jpg");
 	    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;;
+    background-attachment: initial;
+    background-position: top;
+   background-size: cover;
 }
-li {
+.barrenav {
     display: inline;
     float: right;
+
   }
