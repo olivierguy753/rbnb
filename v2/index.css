@@ -16,4 +16,6 @@ nav {
     width  : 20em;
     height : 20em;
     background-color: white;
+    position: relative;
+ 
  }
